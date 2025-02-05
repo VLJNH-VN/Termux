@@ -88,6 +88,8 @@ npm start
 ---
 
 Chúc các bạn thành công!
-```
-
-Đây là hướng dẫn chi tiết từng bước cho việc cài đặt và sử dụng bot termux, dễ dàng sao chép và dán vào file markdown cho việc lưu trữ hoặc chia sẻ.
+----
+Mình có bán file bot khá ngon mọi người có nhu cầu mua ủng hộ mình nhé
+Zalo:
+```bash
+0336176273
