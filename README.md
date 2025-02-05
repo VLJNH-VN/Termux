@@ -12,7 +12,6 @@ Mở termux và chạy lệnh sau:
 ```bash
 pkg update -y && pkg upgrade -y && pkg install proot-distro -y && proot-distro install debian && proot-distro login debian
 ```
-- (Lưu ý: Do mình đã tải trước đó nên bạn có thể thấy khác với các bạn mới tải.)
 
 ### Bước 3: Cài đặt Node.js
 Sau khi vào debian, chạy lệnh:
