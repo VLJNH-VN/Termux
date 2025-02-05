@@ -1,6 +1,4 @@
-Dưới đây là hướng dẫn cho việc tạo bot termux:
 
-```
 # Hướng dẫn tạo bot termux
 
 Bạn muốn có một con bot termux như này?
