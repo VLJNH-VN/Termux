@@ -36,6 +36,8 @@ source ~/.bashrc
 Cài đặt và sử dụng phiên bản Node.js 20:
 ```bash
 nvm install 20
+```
+```bash
 nvm use 20
 ```
 
