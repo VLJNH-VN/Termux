@@ -1,6 +1,6 @@
-Dưới đây là hướng dẫn cho việc tạo bot termux, được chỉnh sửa để phù hợp với một file markdown (`.md`):
+Dưới đây là hướng dẫn cho việc tạo bot termux:
 
-```markdown
+```
 # Hướng dẫn tạo bot termux
 
 Bạn muốn có một con bot termux như này?
