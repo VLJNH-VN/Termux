@@ -90,7 +90,4 @@ npm start
 
 Chúc các bạn thành công!
 ----
-Mình có bán file bot khá ngon mọi người có nhu cầu mua ủng hộ mình nhé
-Zalo:
-```bash
-0336176273
+TUT by Pcode
